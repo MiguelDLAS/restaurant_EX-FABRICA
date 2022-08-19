@@ -14,18 +14,18 @@ h3,
 h4,
 h5, 
 h6 {
-    color: #202C45;
+    color: #000000;
 }
 
 a {
-    color: #202C45;
+    color: #040507;
     transition: .3s;
 }
 
 a:hover,
 a:active,
 a:focus {
-    color: #caa914;
+    color: #000000be;
     outline: none;
     text-decoration: none;
 }
@@ -161,7 +161,7 @@ a:focus {
 
 .top-bar .logo h1 {
     margin: -4px 0 0 0;
-    color: #E81C2E;
+    color: #5a3703;
     font-size: 50px;
     line-height: 50px;
     font-weight: 800;
@@ -518,7 +518,7 @@ a:focus {
     margin-bottom: 45px;
     padding: 90px 0;
     text-align: center;
-    background: #202C45;
+    background: #0d0f14;
     border-top: 1px dotted #ffffff;
 }
 
@@ -703,30 +703,6 @@ a:focus {
 }
 
 
-/*******************************/
-/********* Service CSS *********/
-/*******************************/
-.service {
-    position: relative;
-    width: 100%;
-    padding: 45px 0 0 0;
-}
-
-.service .service-item {
-    position: relative;
-    width: 100%;
-    display: flex;
-    flex-direction: column;
-    margin-bottom: 45px;
-}
-
-.service .service-item i {
-    color: #202C45;
-    font-size: 75px;
-    line-height: 75px;
-    margin-bottom: 20px;
-}
-
 
 /*******************************/
 /********** Facts CSS **********/
@@ -738,7 +714,7 @@ a:focus {
     margin: 45px 0;
     display: flex;
     align-items: center;
-    background: #202C45;
+    background: #010101;
 }
 
 .facts .facts-item {
@@ -993,7 +969,7 @@ a:focus {
 
 @media(min-width: 576px) and (max-width: 991.89px) {
     .location .location-form .btn.btn-custom:hover {
-        box-shadow: inset 650px 0 0 0 #202C45;
+        box-shadow: inset 650px 0 0 0 #040405;
     }
 }
 
