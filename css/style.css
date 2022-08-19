@@ -170,7 +170,7 @@ a:focus {
 }
 
 .top-bar .logo h1 span {
-    color: #202C45;
+    color: #020203;
 }
 
 .top-bar .logo img {
@@ -190,8 +190,8 @@ a:focus {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: #202C45;
-    border-radius: 40px;
+    background: #000000;
+    border-radius: 40px;s
 }
 
 .top-bar .top-bar-icon i {
@@ -228,7 +228,7 @@ a:focus {
 /**********************************/
 .nav-bar {
     position: relative;
-    background: #202C45;
+    background: #000000;
 }
 
 .nav-bar.nav-sticky {
@@ -242,7 +242,7 @@ a:focus {
 
 .nav-bar .navbar {
     padding: 20px 0;
-    background: #202C45 !important;
+    background: #000000 !important;
     transition: .3s;
 }
 
